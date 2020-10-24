@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ScoreKeeper</string>
+    <string name="FirstTeam">Team A</string>
+    <string name="secondTeam">Team B</string>
+    <string name="Score">0</string>
+    <string name="MaxPt">+3</string>
+    <string name="MidPt">+2</string>
+    <string name="MinPt">+1</string>
+    <string name="Wins">Call Time Up</string>
+    <string name="status">This amazing battle is live </string>
+    <string name="backgroundDes">basketball background</string>
+</resources>
